@@ -11,6 +11,7 @@
 <h2 id='installation'>Installation</h2>
 <ol>
   <li>Clone the repository: `git clone https://github.com/KarolinaKotwica/Guess_Number_Python.git`</li>
+  <li>Navigate to the repository: cd Guess_Number_Python</li>
 </ol>
 
 <h2 id='usage'>Usage</h2>
